@@ -239,7 +239,8 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='youtube.com/OpusTechz') ] ] ),
+        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('sá´œÊ™sá´„Ê€ÉªÊ™á´‡', url='https://t.me/+Gel-bJ_r7Hs1YzE1') ] ] ),
+        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('mallu casino', url='https://t.me/+Gel-bJ_r7Hs1YzE1') ] ] ),
         protect_content=True if pre == 'filep' else False,
         )
                     
